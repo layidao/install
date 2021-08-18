@@ -1,4 +1,4 @@
 # install
 
 
-  curl -fsSL https://gitee.com/bozz/install/raw/master/脚本| /bin/bash
+  curl -fsSL https://raw.githubusercontent.com/layidao/install/master/脚本 | /bin/bash
